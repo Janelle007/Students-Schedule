@@ -133,7 +133,6 @@ if __name__ == "__main__":
 
     student2.enroll_course(course1)
 
-    # Output test
     print(f"Student created: {student1._name}")
     print(f"Course assigned: {course1._course_name}")
     print(f"Teacher: {teacher1._name}")
